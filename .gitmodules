@@ -1,3 +1,3 @@
 [submodule "autotask_api"]
 	path = autotask_api
-	url = /Users/jjennings/Projects/autotask_api
+url=git@github.com:trepidity/autotask_api.git
